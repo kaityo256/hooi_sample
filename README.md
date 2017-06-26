@@ -44,10 +44,10 @@ Input image (Original)
 
 ![uma.jpg](uma.jpg)
 
-Approximated image (HOSVD, ratio = 0.2)
+Approximated image (HOSVD, ratio = 0.2, r = 0.966415890942)
 
 ![uma_hosvd.jpg](uma_hosvd.jpg)
 
-Approximated image (HOOI, ratio = 0.2)
+Approximated image (HOOI, ratio = 0.2, r = 0.949759967973)
 
 ![uma_hooi.jpg](uma_hooi.jpg)
